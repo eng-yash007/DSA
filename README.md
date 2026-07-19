@@ -32,4 +32,12 @@ A collection of LeetCode questions to ace the coding interview!!!
 | [0176-second-highest-salary](https://github.com/eng-yash007/DSA/tree/master/0176-second-highest-salary) |
 | [0182-duplicate-emails](https://github.com/eng-yash007/DSA/tree/master/0182-duplicate-emails) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/eng-yash007/DSA/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
+## String
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/eng-yash007/DSA/tree/master/0796-rotate-string) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/eng-yash007/DSA/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
