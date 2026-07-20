@@ -46,4 +46,8 @@ A collection of LeetCode questions to ace the coding interview!!!
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/eng-yash007/DSA/tree/master/0014-longest-common-prefix) |
+## Backtracking
+|  |
+| ------- |
+| [0077-combinations](https://github.com/eng-yash007/DSA/tree/master/0077-combinations) |
 <!---LeetCode Topics End-->
