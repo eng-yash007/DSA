@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview!!!
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/eng-yash007/DSA/tree/master/0014-longest-common-prefix) |
+| [0560-subarray-sum-equals-k](https://github.com/eng-yash007/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/eng-yash007/DSA/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/eng-yash007/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Math
@@ -50,4 +51,12 @@ A collection of LeetCode questions to ace the coding interview!!!
 |  |
 | ------- |
 | [0077-combinations](https://github.com/eng-yash007/DSA/tree/master/0077-combinations) |
+## Hash Table
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/eng-yash007/DSA/tree/master/0560-subarray-sum-equals-k) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/eng-yash007/DSA/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
