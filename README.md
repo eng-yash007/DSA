@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview!!!
 |  |
 | ------- |
 | [0633-sum-of-square-numbers](https://github.com/eng-yash007/DSA/tree/master/0633-sum-of-square-numbers) |
+| [1025-divisor-game](https://github.com/eng-yash007/DSA/tree/master/1025-divisor-game) |
 | [1248-count-number-of-nice-subarrays](https://github.com/eng-yash007/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/eng-yash007/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/eng-yash007/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -73,4 +74,16 @@ A collection of LeetCode questions to ace the coding interview!!!
 | ------- |
 | [0930-binary-subarrays-with-sum](https://github.com/eng-yash007/DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/eng-yash007/DSA/tree/master/1248-count-number-of-nice-subarrays) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/eng-yash007/DSA/tree/master/1025-divisor-game) |
+## Brainteaser
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/eng-yash007/DSA/tree/master/1025-divisor-game) |
+## Game Theory
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/eng-yash007/DSA/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->
