@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview!!!
 | [0014-longest-common-prefix](https://github.com/eng-yash007/DSA/tree/master/0014-longest-common-prefix) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/eng-yash007/DSA/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/eng-yash007/DSA/tree/master/0162-find-peak-element) |
+| [0455-assign-cookies](https://github.com/eng-yash007/DSA/tree/master/0455-assign-cookies) |
 | [0560-subarray-sum-equals-k](https://github.com/eng-yash007/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/eng-yash007/DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/eng-yash007/DSA/tree/master/0992-subarrays-with-k-different-integers) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview!!!
 ## Two Pointers
 |  |
 | ------- |
+| [0455-assign-cookies](https://github.com/eng-yash007/DSA/tree/master/0455-assign-cookies) |
 | [0633-sum-of-square-numbers](https://github.com/eng-yash007/DSA/tree/master/0633-sum-of-square-numbers) |
 ## Binary Search
 |  |
@@ -95,4 +97,12 @@ A collection of LeetCode questions to ace the coding interview!!!
 |  |
 | ------- |
 | [0992-subarrays-with-k-different-integers](https://github.com/eng-yash007/DSA/tree/master/0992-subarrays-with-k-different-integers) |
+## Greedy
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/eng-yash007/DSA/tree/master/0455-assign-cookies) |
+## Sorting
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/eng-yash007/DSA/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
