@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview!!!
 | [0055-jump-game](https://github.com/eng-yash007/DSA/tree/master/0055-jump-game) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/eng-yash007/DSA/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/eng-yash007/DSA/tree/master/0162-find-peak-element) |
+| [0435-non-overlapping-intervals](https://github.com/eng-yash007/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/eng-yash007/DSA/tree/master/0455-assign-cookies) |
 | [0560-subarray-sum-equals-k](https://github.com/eng-yash007/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0860-lemonade-change](https://github.com/eng-yash007/DSA/tree/master/0860-lemonade-change) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview!!!
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/eng-yash007/DSA/tree/master/0055-jump-game) |
+| [0435-non-overlapping-intervals](https://github.com/eng-yash007/DSA/tree/master/0435-non-overlapping-intervals) |
 | [1025-divisor-game](https://github.com/eng-yash007/DSA/tree/master/1025-divisor-game) |
 ## Brainteaser
 |  |
@@ -114,11 +116,13 @@ A collection of LeetCode questions to ace the coding interview!!!
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/eng-yash007/DSA/tree/master/0055-jump-game) |
+| [0435-non-overlapping-intervals](https://github.com/eng-yash007/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/eng-yash007/DSA/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/eng-yash007/DSA/tree/master/0860-lemonade-change) |
 ## Sorting
 |  |
 | ------- |
+| [0435-non-overlapping-intervals](https://github.com/eng-yash007/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/eng-yash007/DSA/tree/master/0455-assign-cookies) |
 | [3536-maximum-product-of-two-digits](https://github.com/eng-yash007/DSA/tree/master/3536-maximum-product-of-two-digits) |
 ## Bit Manipulation
