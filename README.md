@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview!!!
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/eng-yash007/DSA/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/eng-yash007/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/eng-yash007/DSA/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3536-maximum-product-of-two-digits](https://github.com/eng-yash007/DSA/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/eng-yash007/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Two Pointers
 |  |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview!!!
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/eng-yash007/DSA/tree/master/0455-assign-cookies) |
+| [3536-maximum-product-of-two-digits](https://github.com/eng-yash007/DSA/tree/master/3536-maximum-product-of-two-digits) |
 ## Bit Manipulation
 |  |
 | ------- |
