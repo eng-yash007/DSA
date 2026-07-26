@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview!!!
 | [0435-non-overlapping-intervals](https://github.com/eng-yash007/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/eng-yash007/DSA/tree/master/0455-assign-cookies) |
 | [0560-subarray-sum-equals-k](https://github.com/eng-yash007/DSA/tree/master/0560-subarray-sum-equals-k) |
+| [0628-maximum-product-of-three-numbers](https://github.com/eng-yash007/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0860-lemonade-change](https://github.com/eng-yash007/DSA/tree/master/0860-lemonade-change) |
 | [0930-binary-subarrays-with-sum](https://github.com/eng-yash007/DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/eng-yash007/DSA/tree/master/0992-subarrays-with-k-different-integers) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview!!!
 ## Math
 |  |
 | ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/eng-yash007/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/eng-yash007/DSA/tree/master/0633-sum-of-square-numbers) |
 | [1025-divisor-game](https://github.com/eng-yash007/DSA/tree/master/1025-divisor-game) |
 | [1248-count-number-of-nice-subarrays](https://github.com/eng-yash007/DSA/tree/master/1248-count-number-of-nice-subarrays) |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview!!!
 | ------- |
 | [0435-non-overlapping-intervals](https://github.com/eng-yash007/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/eng-yash007/DSA/tree/master/0455-assign-cookies) |
+| [0628-maximum-product-of-three-numbers](https://github.com/eng-yash007/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [3536-maximum-product-of-two-digits](https://github.com/eng-yash007/DSA/tree/master/3536-maximum-product-of-two-digits) |
 ## Bit Manipulation
 |  |
