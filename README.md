@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview!!!
 ## Math
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/eng-yash007/DSA/tree/master/0231-power-of-two) |
 | [0628-maximum-product-of-three-numbers](https://github.com/eng-yash007/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/eng-yash007/DSA/tree/master/0633-sum-of-square-numbers) |
 | [1025-divisor-game](https://github.com/eng-yash007/DSA/tree/master/1025-divisor-game) |
@@ -132,6 +133,11 @@ A collection of LeetCode questions to ace the coding interview!!!
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/eng-yash007/DSA/tree/master/0231-power-of-two) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/eng-yash007/DSA/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/eng-yash007/DSA/tree/master/3513-number-of-unique-xor-triplets-i) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/eng-yash007/DSA/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
