@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview!!!
 | [0992-subarrays-with-k-different-integers](https://github.com/eng-yash007/DSA/tree/master/0992-subarrays-with-k-different-integers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/eng-yash007/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/eng-yash007/DSA/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/eng-yash007/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/eng-yash007/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/eng-yash007/DSA/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/eng-yash007/DSA/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview!!!
 | [0435-non-overlapping-intervals](https://github.com/eng-yash007/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/eng-yash007/DSA/tree/master/0455-assign-cookies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/eng-yash007/DSA/tree/master/0628-maximum-product-of-three-numbers) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/eng-yash007/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/eng-yash007/DSA/tree/master/3536-maximum-product-of-two-digits) |
 ## Bit Manipulation
 |  |
@@ -142,4 +144,8 @@ A collection of LeetCode questions to ace the coding interview!!!
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/eng-yash007/DSA/tree/master/0231-power-of-two) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/eng-yash007/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 <!---LeetCode Topics End-->
