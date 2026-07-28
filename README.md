@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview!!!
 | [0628-maximum-product-of-three-numbers](https://github.com/eng-yash007/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0860-lemonade-change](https://github.com/eng-yash007/DSA/tree/master/0860-lemonade-change) |
 | [0930-binary-subarrays-with-sum](https://github.com/eng-yash007/DSA/tree/master/0930-binary-subarrays-with-sum) |
+| [0986-interval-list-intersections](https://github.com/eng-yash007/DSA/tree/master/0986-interval-list-intersections) |
 | [0992-subarrays-with-k-different-integers](https://github.com/eng-yash007/DSA/tree/master/0992-subarrays-with-k-different-integers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/eng-yash007/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/eng-yash007/DSA/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview!!!
 | ------- |
 | [0455-assign-cookies](https://github.com/eng-yash007/DSA/tree/master/0455-assign-cookies) |
 | [0633-sum-of-square-numbers](https://github.com/eng-yash007/DSA/tree/master/0633-sum-of-square-numbers) |
+| [0986-interval-list-intersections](https://github.com/eng-yash007/DSA/tree/master/0986-interval-list-intersections) |
 ## Binary Search
 |  |
 | ------- |
@@ -154,4 +156,8 @@ A collection of LeetCode questions to ace the coding interview!!!
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/eng-yash007/DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Sweep Line
+|  |
+| ------- |
+| [0986-interval-list-intersections](https://github.com/eng-yash007/DSA/tree/master/0986-interval-list-intersections) |
 <!---LeetCode Topics End-->
