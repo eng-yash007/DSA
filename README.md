@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview!!!
 ## Database
 |  |
 | ------- |
+| [0175-combine-two-tables](https://github.com/eng-yash007/DSA/tree/master/0175-combine-two-tables) |
 | [0176-second-highest-salary](https://github.com/eng-yash007/DSA/tree/master/0176-second-highest-salary) |
 | [0182-duplicate-emails](https://github.com/eng-yash007/DSA/tree/master/0182-duplicate-emails) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/eng-yash007/DSA/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
