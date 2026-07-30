@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview!!!
 | [1248-count-number-of-nice-subarrays](https://github.com/eng-yash007/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/eng-yash007/DSA/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/eng-yash007/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/eng-yash007/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/eng-yash007/DSA/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/eng-yash007/DSA/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/eng-yash007/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview!!!
 | [0014-longest-common-prefix](https://github.com/eng-yash007/DSA/tree/master/0014-longest-common-prefix) |
 | [0076-minimum-window-substring](https://github.com/eng-yash007/DSA/tree/master/0076-minimum-window-substring) |
 | [0796-rotate-string](https://github.com/eng-yash007/DSA/tree/master/0796-rotate-string) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/eng-yash007/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/eng-yash007/DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## String Matching
 |  |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview!!!
 | [0455-assign-cookies](https://github.com/eng-yash007/DSA/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/eng-yash007/DSA/tree/master/0605-can-place-flowers) |
 | [0860-lemonade-change](https://github.com/eng-yash007/DSA/tree/master/0860-lemonade-change) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/eng-yash007/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Sorting
 |  |
 | ------- |
