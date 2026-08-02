@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview!!!
 | [0035-search-insert-position](https://github.com/eng-yash007/DSA/tree/master/0035-search-insert-position) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/eng-yash007/DSA/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/eng-yash007/DSA/tree/master/0162-find-peak-element) |
+| [0278-first-bad-version](https://github.com/eng-yash007/DSA/tree/master/0278-first-bad-version) |
 | [0633-sum-of-square-numbers](https://github.com/eng-yash007/DSA/tree/master/0633-sum-of-square-numbers) |
 | [0704-binary-search](https://github.com/eng-yash007/DSA/tree/master/0704-binary-search) |
 ## Number Theory
@@ -185,4 +186,8 @@ A collection of LeetCode questions to ace the coding interview!!!
 |  |
 | ------- |
 | [0986-interval-list-intersections](https://github.com/eng-yash007/DSA/tree/master/0986-interval-list-intersections) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/eng-yash007/DSA/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
