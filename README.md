@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview!!!
 | [0628-maximum-product-of-three-numbers](https://github.com/eng-yash007/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/eng-yash007/DSA/tree/master/0704-binary-search) |
 | [0860-lemonade-change](https://github.com/eng-yash007/DSA/tree/master/0860-lemonade-change) |
+| [0877-stone-game](https://github.com/eng-yash007/DSA/tree/master/0877-stone-game) |
 | [0930-binary-subarrays-with-sum](https://github.com/eng-yash007/DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [0986-interval-list-intersections](https://github.com/eng-yash007/DSA/tree/master/0986-interval-list-intersections) |
 | [0992-subarrays-with-k-different-integers](https://github.com/eng-yash007/DSA/tree/master/0992-subarrays-with-k-different-integers) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview!!!
 | [0231-power-of-two](https://github.com/eng-yash007/DSA/tree/master/0231-power-of-two) |
 | [0628-maximum-product-of-three-numbers](https://github.com/eng-yash007/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/eng-yash007/DSA/tree/master/0633-sum-of-square-numbers) |
+| [0877-stone-game](https://github.com/eng-yash007/DSA/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/eng-yash007/DSA/tree/master/1025-divisor-game) |
 | [1248-count-number-of-nice-subarrays](https://github.com/eng-yash007/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/eng-yash007/DSA/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview!!!
 | ------- |
 | [0055-jump-game](https://github.com/eng-yash007/DSA/tree/master/0055-jump-game) |
 | [0435-non-overlapping-intervals](https://github.com/eng-yash007/DSA/tree/master/0435-non-overlapping-intervals) |
+| [0877-stone-game](https://github.com/eng-yash007/DSA/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/eng-yash007/DSA/tree/master/1025-divisor-game) |
 ## Brainteaser
 |  |
@@ -128,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview!!!
 ## Game Theory
 |  |
 | ------- |
+| [0877-stone-game](https://github.com/eng-yash007/DSA/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/eng-yash007/DSA/tree/master/1025-divisor-game) |
 ## Counting
 |  |
