@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview!!!
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/eng-yash007/DSA/tree/master/0014-longest-common-prefix) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/eng-yash007/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/eng-yash007/DSA/tree/master/0035-search-insert-position) |
 | [0055-jump-game](https://github.com/eng-yash007/DSA/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/eng-yash007/DSA/tree/master/0056-merge-intervals) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview!!!
 ## Binary Search
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/eng-yash007/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/eng-yash007/DSA/tree/master/0035-search-insert-position) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/eng-yash007/DSA/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/eng-yash007/DSA/tree/master/0162-find-peak-element) |
