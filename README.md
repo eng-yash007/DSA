@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview!!!
 | [1979-find-greatest-common-divisor-of-array](https://github.com/eng-yash007/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/eng-yash007/DSA/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/eng-yash007/DSA/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3731-find-missing-elements](https://github.com/eng-yash007/DSA/tree/master/3731-find-missing-elements) |
 ## Math
 |  |
 | ------- |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview!!!
 | [1636-sort-array-by-increasing-frequency](https://github.com/eng-yash007/DSA/tree/master/1636-sort-array-by-increasing-frequency) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/eng-yash007/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/eng-yash007/DSA/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
+| [3731-find-missing-elements](https://github.com/eng-yash007/DSA/tree/master/3731-find-missing-elements) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -168,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview!!!
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/eng-yash007/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/eng-yash007/DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/eng-yash007/DSA/tree/master/3536-maximum-product-of-two-digits) |
+| [3731-find-missing-elements](https://github.com/eng-yash007/DSA/tree/master/3731-find-missing-elements) |
 ## Bit Manipulation
 |  |
 | ------- |
