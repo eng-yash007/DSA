@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview!!!
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/eng-yash007/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/eng-yash007/DSA/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/eng-yash007/DSA/tree/master/1913-maximum-product-difference-between-two-pairs) |
+| [1929-concatenation-of-array](https://github.com/eng-yash007/DSA/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/eng-yash007/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/eng-yash007/DSA/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/eng-yash007/DSA/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -211,4 +212,8 @@ A collection of LeetCode questions to ace the coding interview!!!
 |  |
 | ------- |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/eng-yash007/DSA/tree/master/1913-maximum-product-difference-between-two-pairs) |
+## Simulation
+|  |
+| ------- |
+| [1929-concatenation-of-array](https://github.com/eng-yash007/DSA/tree/master/1929-concatenation-of-array) |
 <!---LeetCode Topics End-->
