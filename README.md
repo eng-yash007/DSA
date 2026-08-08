@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview!!!
 | [0076-minimum-window-substring](https://github.com/eng-yash007/DSA/tree/master/0076-minimum-window-substring) |
 | [0242-valid-anagram](https://github.com/eng-yash007/DSA/tree/master/0242-valid-anagram) |
 | [0796-rotate-string](https://github.com/eng-yash007/DSA/tree/master/0796-rotate-string) |
+| [2390-removing-stars-from-a-string](https://github.com/eng-yash007/DSA/tree/master/2390-removing-stars-from-a-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/eng-yash007/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/eng-yash007/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/eng-yash007/DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -221,4 +222,9 @@ A collection of LeetCode questions to ace the coding interview!!!
 | ------- |
 | [1929-concatenation-of-array](https://github.com/eng-yash007/DSA/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/eng-yash007/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2390-removing-stars-from-a-string](https://github.com/eng-yash007/DSA/tree/master/2390-removing-stars-from-a-string) |
+## Stack
+|  |
+| ------- |
+| [2390-removing-stars-from-a-string](https://github.com/eng-yash007/DSA/tree/master/2390-removing-stars-from-a-string) |
 <!---LeetCode Topics End-->
