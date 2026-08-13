@@ -1,7 +1,7 @@
 class Solution {
 public:
     double minPrice(vector<int>& prices, vector<int>& discounts) {
-          sort(prices.rbegin(), prices.rend());
+        sort(prices.rbegin(), prices.rend());
         sort(discounts.rbegin(), discounts.rend());
 
         double ans = 0;
@@ -10,9 +10,8 @@ public:
         int m = discounts.size();
 
         int k = min(n, m);
-
-        // Apply discounts to largest prices
         for (int i = 0; i < k; i++) {
+            // 60% disc ke baad 40% hi to pay karna h isiliye 100 se disc[i] minus kia 
             ans += (double)prices[i] * (100 - discounts[i]) / 100.0;
         }
 
