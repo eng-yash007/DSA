@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview!!!
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/eng-yash007/DSA/tree/master/0007-reverse-integer) |
 | [0231-power-of-two](https://github.com/eng-yash007/DSA/tree/master/0231-power-of-two) |
 | [0628-maximum-product-of-three-numbers](https://github.com/eng-yash007/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/eng-yash007/DSA/tree/master/0633-sum-of-square-numbers) |
