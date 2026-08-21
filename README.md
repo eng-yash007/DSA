@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview!!!
 ## Two Pointers
 |  |
 | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/eng-yash007/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0455-assign-cookies](https://github.com/eng-yash007/DSA/tree/master/0455-assign-cookies) |
 | [0633-sum-of-square-numbers](https://github.com/eng-yash007/DSA/tree/master/0633-sum-of-square-numbers) |
 | [0986-interval-list-intersections](https://github.com/eng-yash007/DSA/tree/master/0986-interval-list-intersections) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview!!!
 | ------- |
 | [0014-longest-common-prefix](https://github.com/eng-yash007/DSA/tree/master/0014-longest-common-prefix) |
 | [0076-minimum-window-substring](https://github.com/eng-yash007/DSA/tree/master/0076-minimum-window-substring) |
+| [0151-reverse-words-in-a-string](https://github.com/eng-yash007/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/eng-yash007/DSA/tree/master/0242-valid-anagram) |
 | [0796-rotate-string](https://github.com/eng-yash007/DSA/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/eng-yash007/DSA/tree/master/1021-remove-outermost-parentheses) |
