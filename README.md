@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview!!!
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/eng-yash007/DSA/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [1929-concatenation-of-array](https://github.com/eng-yash007/DSA/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/eng-yash007/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/eng-yash007/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/eng-yash007/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/eng-yash007/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/eng-yash007/DSA/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview!!!
 | [0540-single-element-in-a-sorted-array](https://github.com/eng-yash007/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0633-sum-of-square-numbers](https://github.com/eng-yash007/DSA/tree/master/0633-sum-of-square-numbers) |
 | [0704-binary-search](https://github.com/eng-yash007/DSA/tree/master/0704-binary-search) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/eng-yash007/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Number Theory
 |  |
 | ------- |
@@ -211,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview!!!
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/eng-yash007/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/eng-yash007/DSA/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/eng-yash007/DSA/tree/master/1913-maximum-product-difference-between-two-pairs) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/eng-yash007/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/eng-yash007/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/eng-yash007/DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/eng-yash007/DSA/tree/master/3536-maximum-product-of-two-digits) |
