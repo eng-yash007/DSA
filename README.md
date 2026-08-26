@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview!!!
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/eng-yash007/DSA/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/eng-yash007/DSA/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/eng-yash007/DSA/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3542-minimum-operations-to-convert-all-elements-to-zero](https://github.com/eng-yash007/DSA/tree/master/3542-minimum-operations-to-convert-all-elements-to-zero) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/eng-yash007/DSA/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/eng-yash007/DSA/tree/master/3731-find-missing-elements) |
 ## Math
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview!!!
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/eng-yash007/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/eng-yash007/DSA/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/eng-yash007/DSA/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3542-minimum-operations-to-convert-all-elements-to-zero](https://github.com/eng-yash007/DSA/tree/master/3542-minimum-operations-to-convert-all-elements-to-zero) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/eng-yash007/DSA/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/eng-yash007/DSA/tree/master/3731-find-missing-elements) |
 ## Prefix Sum
@@ -199,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview!!!
 | [1029-two-city-scheduling](https://github.com/eng-yash007/DSA/tree/master/1029-two-city-scheduling) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/eng-yash007/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/eng-yash007/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3542-minimum-operations-to-convert-all-elements-to-zero](https://github.com/eng-yash007/DSA/tree/master/3542-minimum-operations-to-convert-all-elements-to-zero) |
 ## Sorting
 |  |
 | ------- |
@@ -263,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview!!!
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/eng-yash007/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [2390-removing-stars-from-a-string](https://github.com/eng-yash007/DSA/tree/master/2390-removing-stars-from-a-string) |
+| [3542-minimum-operations-to-convert-all-elements-to-zero](https://github.com/eng-yash007/DSA/tree/master/3542-minimum-operations-to-convert-all-elements-to-zero) |
 ## Hungarian Algorithm
 |  |
 | ------- |
@@ -279,4 +283,8 @@ A collection of LeetCode questions to ace the coding interview!!!
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/eng-yash007/DSA/tree/master/1021-remove-outermost-parentheses) |
+## Monotonic Stack
+|  |
+| ------- |
+| [3542-minimum-operations-to-convert-all-elements-to-zero](https://github.com/eng-yash007/DSA/tree/master/3542-minimum-operations-to-convert-all-elements-to-zero) |
 <!---LeetCode Topics End-->
