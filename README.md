@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview!!!
 | [1029-two-city-scheduling](https://github.com/eng-yash007/DSA/tree/master/1029-two-city-scheduling) |
 | [1200-minimum-absolute-difference](https://github.com/eng-yash007/DSA/tree/master/1200-minimum-absolute-difference) |
 | [1248-count-number-of-nice-subarrays](https://github.com/eng-yash007/DSA/tree/master/1248-count-number-of-nice-subarrays) |
+| [1331-rank-transform-of-an-array](https://github.com/eng-yash007/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/eng-yash007/DSA/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/eng-yash007/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/eng-yash007/DSA/tree/master/1636-sort-array-by-increasing-frequency) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview!!!
 | [0930-binary-subarrays-with-sum](https://github.com/eng-yash007/DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/eng-yash007/DSA/tree/master/0992-subarrays-with-k-different-integers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/eng-yash007/DSA/tree/master/1248-count-number-of-nice-subarrays) |
+| [1331-rank-transform-of-an-array](https://github.com/eng-yash007/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/eng-yash007/DSA/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/eng-yash007/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/eng-yash007/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -213,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview!!!
 | [0628-maximum-product-of-three-numbers](https://github.com/eng-yash007/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [1029-two-city-scheduling](https://github.com/eng-yash007/DSA/tree/master/1029-two-city-scheduling) |
 | [1200-minimum-absolute-difference](https://github.com/eng-yash007/DSA/tree/master/1200-minimum-absolute-difference) |
+| [1331-rank-transform-of-an-array](https://github.com/eng-yash007/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/eng-yash007/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/eng-yash007/DSA/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/eng-yash007/DSA/tree/master/1913-maximum-product-difference-between-two-pairs) |
