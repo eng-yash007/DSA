@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview!!!
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/eng-yash007/DSA/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/eng-yash007/DSA/tree/master/0014-longest-common-prefix) |
 | [0033-search-in-rotated-sorted-array](https://github.com/eng-yash007/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/eng-yash007/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview!!!
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/eng-yash007/DSA/tree/master/0001-two-sum) |
 | [0076-minimum-window-substring](https://github.com/eng-yash007/DSA/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/eng-yash007/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0242-valid-anagram](https://github.com/eng-yash007/DSA/tree/master/0242-valid-anagram) |
