@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview!!!
 | [0055-jump-game](https://github.com/eng-yash007/DSA/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/eng-yash007/DSA/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/eng-yash007/DSA/tree/master/0057-insert-interval) |
+| [0073-set-matrix-zeroes](https://github.com/eng-yash007/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/eng-yash007/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/eng-yash007/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/eng-yash007/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview!!!
 | ------- |
 | [0001-two-sum](https://github.com/eng-yash007/DSA/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/eng-yash007/DSA/tree/master/0013-roman-to-integer) |
+| [0073-set-matrix-zeroes](https://github.com/eng-yash007/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/eng-yash007/DSA/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/eng-yash007/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0242-valid-anagram](https://github.com/eng-yash007/DSA/tree/master/0242-valid-anagram) |
@@ -298,4 +300,8 @@ A collection of LeetCode questions to ace the coding interview!!!
 |  |
 | ------- |
 | [3542-minimum-operations-to-convert-all-elements-to-zero](https://github.com/eng-yash007/DSA/tree/master/3542-minimum-operations-to-convert-all-elements-to-zero) |
+## Matrix
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/eng-yash007/DSA/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
