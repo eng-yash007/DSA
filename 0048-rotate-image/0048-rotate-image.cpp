@@ -1,19 +1,20 @@
 class Solution {
 public:
     void rotate(vector<vector<int>>& matrix) {
-        // brute force karte h 
-        // we can clearly see ki 1st row will goes to last column 
-        // 2nd row will go to last 2nd column 
-        // and so on...
+        // optimal karenge 
+        // isme ham inplace matrix use karenge 
+        // isme ham transpose akrenge 
         int n = matrix.size();
-        int m = matrix[0].size();
-        vector<vector<int>> ans(n, vector<int>(n));
-        for(int i=0;i<n;i++){
-            for(int j=0;j<m;j++){
-                ans[j][n-1-i] = matrix[i][j]; 
+        // int m = matrix[0].size();
+        // bcoz matrix di rkhi h nXn ki h 
+        for(int i= 0;i<n-1;i++){
+            for(int j=i+1;j<n;j++){
+                swap(matrix[i][j], matrix[j][i]);//ye hamne transpose kia h 
+
             }
         }
-        
-        matrix = ans;
+        for(int i=0;i<n;i++){
+            reverse(matrix[i].begin(), matrix[i].end());
+        }
     }
 };
