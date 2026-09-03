@@ -9,7 +9,7 @@ public:
 
         for (int i = 0; i < n; i++) {
             int freq[26] = {0};
-            for (int j = i; j < n; j++) {
+            for (int j = i; j < n; j++) {// ham har ek sub string k eliye freq nikal rhe h then beauty bhi har ek substrng kr liyr niakenge 
                 freq[s[j] - 'a']++;
 
                 int mx = INT_MIN;
