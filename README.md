@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview!!!
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/eng-yash007/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/eng-yash007/DSA/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/eng-yash007/DSA/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/eng-yash007/DSA/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/eng-yash007/DSA/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/eng-yash007/DSA/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/eng-yash007/DSA/tree/master/0057-insert-interval) |
@@ -283,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview!!!
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/eng-yash007/DSA/tree/master/0054-spiral-matrix) |
 | [1929-concatenation-of-array](https://github.com/eng-yash007/DSA/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/eng-yash007/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2390-removing-stars-from-a-string](https://github.com/eng-yash007/DSA/tree/master/2390-removing-stars-from-a-string) |
@@ -316,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview!!!
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/eng-yash007/DSA/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/eng-yash007/DSA/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/eng-yash007/DSA/tree/master/0073-set-matrix-zeroes) |
 ## Manacher
 |  |
