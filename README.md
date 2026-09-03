@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview!!!
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/eng-yash007/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0151-reverse-words-in-a-string](https://github.com/eng-yash007/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0455-assign-cookies](https://github.com/eng-yash007/DSA/tree/master/0455-assign-cookies) |
 | [0633-sum-of-square-numbers](https://github.com/eng-yash007/DSA/tree/master/0633-sum-of-square-numbers) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview!!!
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/eng-yash007/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0013-roman-to-integer](https://github.com/eng-yash007/DSA/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/eng-yash007/DSA/tree/master/0014-longest-common-prefix) |
 | [0076-minimum-window-substring](https://github.com/eng-yash007/DSA/tree/master/0076-minimum-window-substring) |
@@ -188,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview!!!
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/eng-yash007/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0055-jump-game](https://github.com/eng-yash007/DSA/tree/master/0055-jump-game) |
 | [0435-non-overlapping-intervals](https://github.com/eng-yash007/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0877-stone-game](https://github.com/eng-yash007/DSA/tree/master/0877-stone-game) |
@@ -311,4 +314,8 @@ A collection of LeetCode questions to ace the coding interview!!!
 | ------- |
 | [0048-rotate-image](https://github.com/eng-yash007/DSA/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/eng-yash007/DSA/tree/master/0073-set-matrix-zeroes) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/eng-yash007/DSA/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
