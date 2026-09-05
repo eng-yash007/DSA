@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview!!!
 | [1029-two-city-scheduling](https://github.com/eng-yash007/DSA/tree/master/1029-two-city-scheduling) |
 | [1200-minimum-absolute-difference](https://github.com/eng-yash007/DSA/tree/master/1200-minimum-absolute-difference) |
 | [1248-count-number-of-nice-subarrays](https://github.com/eng-yash007/DSA/tree/master/1248-count-number-of-nice-subarrays) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/eng-yash007/DSA/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/eng-yash007/DSA/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1331-rank-transform-of-an-array](https://github.com/eng-yash007/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/eng-yash007/DSA/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview!!!
 | [0540-single-element-in-a-sorted-array](https://github.com/eng-yash007/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0633-sum-of-square-numbers](https://github.com/eng-yash007/DSA/tree/master/0633-sum-of-square-numbers) |
 | [0704-binary-search](https://github.com/eng-yash007/DSA/tree/master/0704-binary-search) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/eng-yash007/DSA/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/eng-yash007/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Number Theory
 |  |
