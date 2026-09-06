@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview!!!
 | [0877-stone-game](https://github.com/eng-yash007/DSA/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/eng-yash007/DSA/tree/master/1025-divisor-game) |
 | [1248-count-number-of-nice-subarrays](https://github.com/eng-yash007/DSA/tree/master/1248-count-number-of-nice-subarrays) |
+| [1323-maximum-69-number](https://github.com/eng-yash007/DSA/tree/master/1323-maximum-69-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/eng-yash007/DSA/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/eng-yash007/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2235-add-two-integers](https://github.com/eng-yash007/DSA/tree/master/2235-add-two-integers) |
@@ -231,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview!!!
 | [0605-can-place-flowers](https://github.com/eng-yash007/DSA/tree/master/0605-can-place-flowers) |
 | [0860-lemonade-change](https://github.com/eng-yash007/DSA/tree/master/0860-lemonade-change) |
 | [1029-two-city-scheduling](https://github.com/eng-yash007/DSA/tree/master/1029-two-city-scheduling) |
+| [1323-maximum-69-number](https://github.com/eng-yash007/DSA/tree/master/1323-maximum-69-number) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/eng-yash007/DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/eng-yash007/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/eng-yash007/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
