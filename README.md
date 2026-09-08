@@ -295,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview!!!
 ## Quicksort
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/eng-yash007/DSA/tree/master/0056-merge-intervals) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/eng-yash007/DSA/tree/master/1913-maximum-product-difference-between-two-pairs) |
 ## Simulation
 |  |
