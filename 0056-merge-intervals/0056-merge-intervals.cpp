@@ -1,8 +1,5 @@
 class Solution {
 public:
-
-    
-
     vector<vector<int>> merge(vector<vector<int>>& intervals) {
         sort(intervals.begin(), intervals.end());
         vector<vector<int>> ans;
@@ -14,10 +11,6 @@ public:
                 ans.back()[1] = max(intervals[i][1], ans.back()[1]);
             }
         }
-        return ans;
-
-
-
-        
+        return ans;   
     }
 };
