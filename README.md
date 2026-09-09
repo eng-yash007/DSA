@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview!!!
 | [0057-insert-interval](https://github.com/eng-yash007/DSA/tree/master/0057-insert-interval) |
 | [0073-set-matrix-zeroes](https://github.com/eng-yash007/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/eng-yash007/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0088-merge-sorted-array](https://github.com/eng-yash007/DSA/tree/master/0088-merge-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/eng-yash007/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0152-maximum-product-subarray](https://github.com/eng-yash007/DSA/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/eng-yash007/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview!!!
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/eng-yash007/DSA/tree/master/0005-longest-palindromic-substring) |
+| [0088-merge-sorted-array](https://github.com/eng-yash007/DSA/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/eng-yash007/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0455-assign-cookies](https://github.com/eng-yash007/DSA/tree/master/0455-assign-cookies) |
 | [0633-sum-of-square-numbers](https://github.com/eng-yash007/DSA/tree/master/0633-sum-of-square-numbers) |
@@ -246,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview!!!
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/eng-yash007/DSA/tree/master/0056-merge-intervals) |
+| [0088-merge-sorted-array](https://github.com/eng-yash007/DSA/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/eng-yash007/DSA/tree/master/0242-valid-anagram) |
 | [0414-third-maximum-number](https://github.com/eng-yash007/DSA/tree/master/0414-third-maximum-number) |
 | [0435-non-overlapping-intervals](https://github.com/eng-yash007/DSA/tree/master/0435-non-overlapping-intervals) |
