@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview!!!
 | [1331-rank-transform-of-an-array](https://github.com/eng-yash007/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/eng-yash007/DSA/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/eng-yash007/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1539-kth-missing-positive-number](https://github.com/eng-yash007/DSA/tree/master/1539-kth-missing-positive-number) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/eng-yash007/DSA/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/eng-yash007/DSA/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [1929-concatenation-of-array](https://github.com/eng-yash007/DSA/tree/master/1929-concatenation-of-array) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview!!!
 | [0704-binary-search](https://github.com/eng-yash007/DSA/tree/master/0704-binary-search) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/eng-yash007/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/eng-yash007/DSA/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1539-kth-missing-positive-number](https://github.com/eng-yash007/DSA/tree/master/1539-kth-missing-positive-number) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/eng-yash007/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Number Theory
 |  |
