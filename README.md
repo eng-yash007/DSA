@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview!!!
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/eng-yash007/DSA/tree/master/0007-reverse-integer) |
+| [0012-integer-to-roman](https://github.com/eng-yash007/DSA/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/eng-yash007/DSA/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/eng-yash007/DSA/tree/master/0048-rotate-image) |
 | [0231-power-of-two](https://github.com/eng-yash007/DSA/tree/master/0231-power-of-two) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview!!!
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/eng-yash007/DSA/tree/master/0005-longest-palindromic-substring) |
+| [0012-integer-to-roman](https://github.com/eng-yash007/DSA/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/eng-yash007/DSA/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/eng-yash007/DSA/tree/master/0014-longest-common-prefix) |
 | [0076-minimum-window-substring](https://github.com/eng-yash007/DSA/tree/master/0076-minimum-window-substring) |
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview!!!
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/eng-yash007/DSA/tree/master/0001-two-sum) |
+| [0012-integer-to-roman](https://github.com/eng-yash007/DSA/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/eng-yash007/DSA/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/eng-yash007/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/eng-yash007/DSA/tree/master/0076-minimum-window-substring) |
