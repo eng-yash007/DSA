@@ -4,9 +4,27 @@ public:
         int n1 = nums1.size();
         int n2 = nums2.size();
         int n = n1+n2;
-        vector<int> arr = nums1;
-        arr.insert(arr.end(), nums2.begin(), nums2.end());
-        sort(arr.begin(), arr.end());
+        vector<int> arr;
+        int i=0,j=0;
+        while(i<n1 && j<n2){
+            if(nums1[i] < nums2[j]){
+                arr.push_back(nums1[i]);
+                i++;
+            }
+            else{
+                arr.push_back(nums2[j]);
+                j++;
+            }
+        }
+        while(i<n1){
+            arr.push_back(nums1[i]);
+            i++;
+        }
+        while(j<n2){
+            arr.push_back(nums2[j]);
+            j++;
+        }
+
 
         if(n % 2 != 0){
             return arr[n/2];
