@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview!!!
 | [0231-power-of-two](https://github.com/eng-yash007/DSA/tree/master/0231-power-of-two) |
 | [0628-maximum-product-of-three-numbers](https://github.com/eng-yash007/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/eng-yash007/DSA/tree/master/0633-sum-of-square-numbers) |
+| [0836-rectangle-overlap](https://github.com/eng-yash007/DSA/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/eng-yash007/DSA/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/eng-yash007/DSA/tree/master/1025-divisor-game) |
 | [1248-count-number-of-nice-subarrays](https://github.com/eng-yash007/DSA/tree/master/1248-count-number-of-nice-subarrays) |
@@ -364,4 +365,8 @@ A collection of LeetCode questions to ace the coding interview!!!
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/eng-yash007/DSA/tree/master/0004-median-of-two-sorted-arrays) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/eng-yash007/DSA/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
