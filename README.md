@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview!!!
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/eng-yash007/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/eng-yash007/DSA/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/eng-yash007/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3498-reverse-degree-of-a-string](https://github.com/eng-yash007/DSA/tree/master/3498-reverse-degree-of-a-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/eng-yash007/DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## String Matching
 |  |
@@ -325,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview!!!
 | [1929-concatenation-of-array](https://github.com/eng-yash007/DSA/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/eng-yash007/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2390-removing-stars-from-a-string](https://github.com/eng-yash007/DSA/tree/master/2390-removing-stars-from-a-string) |
+| [3498-reverse-degree-of-a-string](https://github.com/eng-yash007/DSA/tree/master/3498-reverse-degree-of-a-string) |
 ## Stack
 |  |
 | ------- |
