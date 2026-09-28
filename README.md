@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview!!!
 | [0055-jump-game](https://github.com/eng-yash007/DSA/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/eng-yash007/DSA/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/eng-yash007/DSA/tree/master/0057-insert-interval) |
+| [0066-plus-one](https://github.com/eng-yash007/DSA/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/eng-yash007/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/eng-yash007/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/eng-yash007/DSA/tree/master/0088-merge-sorted-array) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview!!!
 | [0012-integer-to-roman](https://github.com/eng-yash007/DSA/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/eng-yash007/DSA/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/eng-yash007/DSA/tree/master/0048-rotate-image) |
+| [0066-plus-one](https://github.com/eng-yash007/DSA/tree/master/0066-plus-one) |
 | [0231-power-of-two](https://github.com/eng-yash007/DSA/tree/master/0231-power-of-two) |
 | [0628-maximum-product-of-three-numbers](https://github.com/eng-yash007/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/eng-yash007/DSA/tree/master/0633-sum-of-square-numbers) |
