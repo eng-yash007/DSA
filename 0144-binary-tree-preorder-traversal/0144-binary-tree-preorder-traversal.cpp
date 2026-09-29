@@ -11,17 +11,20 @@
  */
 class Solution {
 public:
-    vector<int> ans; // globally declare kia taki dusre function me return kar sake 
-    void preorder(TreeNode* root){ // alg funtion isiliye banaya kyunki void banana tha kynki null wale case me khali return karna tha
-        if(root == NULL){
-            return;
-        }
-        ans.push_back(root->val);
-        preorder(root->left);
-        preorder(root->right);
-    }
+    
     vector<int> preorderTraversal(TreeNode* root) {
-        preorder(root);
+        vector<int> ans;
+        if(root == NULL) return ans;
+
+        stack<TreeNode*> st;
+        st.push(root);
+        while(!st.empty()){
+            root = st.top();
+            st.pop();
+            ans.push_back(root->val);
+            if(root->right) st.push(root->right);
+            if(root -> left) st.push(root -> left);
+        }
         return ans;
     }
 };
