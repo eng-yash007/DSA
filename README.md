@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview!!!
 | [0242-valid-anagram](https://github.com/eng-yash007/DSA/tree/master/0242-valid-anagram) |
 | [0796-rotate-string](https://github.com/eng-yash007/DSA/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/eng-yash007/DSA/tree/master/1021-remove-outermost-parentheses) |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/eng-yash007/DSA/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/eng-yash007/DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/eng-yash007/DSA/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2390-removing-stars-from-a-string](https://github.com/eng-yash007/DSA/tree/master/2390-removing-stars-from-a-string) |
@@ -339,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview!!!
 | [0144-binary-tree-preorder-traversal](https://github.com/eng-yash007/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/eng-yash007/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [1021-remove-outermost-parentheses](https://github.com/eng-yash007/DSA/tree/master/1021-remove-outermost-parentheses) |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/eng-yash007/DSA/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/eng-yash007/DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [2390-removing-stars-from-a-string](https://github.com/eng-yash007/DSA/tree/master/2390-removing-stars-from-a-string) |
 | [3542-minimum-operations-to-convert-all-elements-to-zero](https://github.com/eng-yash007/DSA/tree/master/3542-minimum-operations-to-convert-all-elements-to-zero) |
@@ -358,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview!!!
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/eng-yash007/DSA/tree/master/1021-remove-outermost-parentheses) |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/eng-yash007/DSA/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/eng-yash007/DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Monotonic Stack
 |  |
