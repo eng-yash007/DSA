@@ -11,17 +11,24 @@
  */
 class Solution {
 public:
-    vector<int> ans; // globally declare kia taki dusre function me return kar sake 
-    void inorder(TreeNode* root){ // alg funtion isiliye banaya kyunki void banana tha kynki null wale case me khali return karna tha
-        if(root == NULL){
-            return;
-        }
-        inorder(root->left);
-        ans.push_back(root->val);
-        inorder(root->right);
-    }
+    
     vector<int> inorderTraversal(TreeNode* root) {
-        inorder(root);
+        vector<int> ans;
+        stack<TreeNode*> st;
+        TreeNode* node = root;
+
+        while(node!=NULL || !st.empty()){
+            while(node!=NULL){
+                st.push(node);
+                node = node->left;
+            }
+
+            node = st.top();
+            st.pop();
+
+            ans.push_back(node->val);
+            node = node->right;
+        }
         return ans;
     }
 };
