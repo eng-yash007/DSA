@@ -17,8 +17,8 @@ public:
         stack<TreeNode*> st;
         TreeNode* node = root;
 
-        while(node!=NULL || !st.empty()){
-            while(node!=NULL){
+        while(node!=NULL || !st.empty()){ // right null ho gyabt stack m or elemnt h to hm unhe process karenge 
+            while(node!=NULL){ // completely left jaa rhe h
                 st.push(node);
                 node = node->left;
             }
@@ -27,7 +27,7 @@ public:
             st.pop();
 
             ans.push_back(node->val);
-            node = node->right;
+            node = node->right; // left null ho jayega to ans me push karke rightmt jayenge 
         }
         return ans;
     }
