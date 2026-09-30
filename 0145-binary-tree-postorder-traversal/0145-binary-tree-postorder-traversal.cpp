@@ -11,17 +11,32 @@
  */
 class Solution {
 public:
-    vector<int> ans; // globally declare kia taki dusre function me return kar sake 
-    void postorder(TreeNode* root){ // alg funtion isiliye banaya kyunki void banana tha kynki null wale case me khali return karna tha
-        if(root == NULL){
-            return;
-        }
-        postorder(root->left);
-        postorder(root->right);
-        ans.push_back(root->val);
-    }
+    
     vector<int> postorderTraversal(TreeNode* root) {
-        postorder(root);
+        vector<int> ans;
+        stack<TreeNode*> st1;
+        stack<TreeNode*> st2;
+        if (root == NULL)
+            return ans;
+        st1.push(root);
+        while(!st1.empty()){
+            TreeNode* node = st1.top();
+            st1.pop();
+
+            st2.push(node);
+            if(node->left){
+                st1.push(node->left);
+            }
+            if(node->right){
+                st1.push(node->right);
+            }
+
+        }
+        while(!st2.empty()){
+            ans.push_back(st2.top()->val);
+            st2.pop();
+
+        }
         return ans;
     }
 };
