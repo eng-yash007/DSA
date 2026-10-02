@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview!!!
 | [0013-roman-to-integer](https://github.com/eng-yash007/DSA/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/eng-yash007/DSA/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/eng-yash007/DSA/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/eng-yash007/DSA/tree/master/0022-generate-parentheses) |
 | [0076-minimum-window-substring](https://github.com/eng-yash007/DSA/tree/master/0076-minimum-window-substring) |
 | [0151-reverse-words-in-a-string](https://github.com/eng-yash007/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/eng-yash007/DSA/tree/master/0242-valid-anagram) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview!!!
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/eng-yash007/DSA/tree/master/0022-generate-parentheses) |
 | [0077-combinations](https://github.com/eng-yash007/DSA/tree/master/0077-combinations) |
 ## Hash Table
 |  |
@@ -233,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview!!!
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/eng-yash007/DSA/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/eng-yash007/DSA/tree/master/0022-generate-parentheses) |
 | [0055-jump-game](https://github.com/eng-yash007/DSA/tree/master/0055-jump-game) |
 | [0152-maximum-product-subarray](https://github.com/eng-yash007/DSA/tree/master/0152-maximum-product-subarray) |
 | [0410-split-array-largest-sum](https://github.com/eng-yash007/DSA/tree/master/0410-split-array-largest-sum) |
@@ -364,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview!!!
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/eng-yash007/DSA/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/eng-yash007/DSA/tree/master/0022-generate-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/eng-yash007/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/eng-yash007/DSA/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/eng-yash007/DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
