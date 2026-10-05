@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview!!!
 | [0242-valid-anagram](https://github.com/eng-yash007/DSA/tree/master/0242-valid-anagram) |
 | [0678-valid-parenthesis-string](https://github.com/eng-yash007/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0796-rotate-string](https://github.com/eng-yash007/DSA/tree/master/0796-rotate-string) |
+| [0856-score-of-parentheses](https://github.com/eng-yash007/DSA/tree/master/0856-score-of-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/eng-yash007/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/eng-yash007/DSA/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/eng-yash007/DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -350,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview!!!
 | [0144-binary-tree-preorder-traversal](https://github.com/eng-yash007/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/eng-yash007/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0678-valid-parenthesis-string](https://github.com/eng-yash007/DSA/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/eng-yash007/DSA/tree/master/0856-score-of-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/eng-yash007/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/eng-yash007/DSA/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/eng-yash007/DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -373,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview!!!
 | [0020-valid-parentheses](https://github.com/eng-yash007/DSA/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/eng-yash007/DSA/tree/master/0022-generate-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/eng-yash007/DSA/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/eng-yash007/DSA/tree/master/0856-score-of-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/eng-yash007/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/eng-yash007/DSA/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/eng-yash007/DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
