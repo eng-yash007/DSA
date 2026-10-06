@@ -23,6 +23,7 @@ public:
     }
 
     int maxPathSum(TreeNode* root) {
+        if(root == NULL) return 0;
         int maxi = INT_MIN;
         maxpathdown(root, maxi);
         return maxi;
