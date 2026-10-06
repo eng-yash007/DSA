@@ -18,30 +18,18 @@ public:
             return 0;
 
         int left = height(node->left);
+        if(left == -1) return -1;
+
         int right = height(node->right);
+        if(right == -1) return -1;
+
+        if(abs(left-right)>1) return -1;
 
         return 1 + max(left, right);
     }
 
-    bool check(TreeNode* node){
-        if(node == NULL) return true;
-
-        int lh = height(node->left);
-        int rh = height(node->right);
-
-        if(abs(lh-rh)>1) return false;
-
-        bool left = check(node -> left);
-        bool right = check(node -> right);
-
-        if(!left || !right) return false;
-
-        return true;
-        
-    }
-
      bool isBalanced(TreeNode* root) {
-        return check(root);
+        return height(root) != -1;
     }
 
 };
