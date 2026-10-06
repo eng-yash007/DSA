@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview!!!
 | [0014-longest-common-prefix](https://github.com/eng-yash007/DSA/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/eng-yash007/DSA/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/eng-yash007/DSA/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/eng-yash007/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0076-minimum-window-substring](https://github.com/eng-yash007/DSA/tree/master/0076-minimum-window-substring) |
 | [0151-reverse-words-in-a-string](https://github.com/eng-yash007/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/eng-yash007/DSA/tree/master/0242-valid-anagram) |
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview!!!
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/eng-yash007/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/eng-yash007/DSA/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/eng-yash007/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0055-jump-game](https://github.com/eng-yash007/DSA/tree/master/0055-jump-game) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/eng-yash007/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0152-maximum-product-subarray](https://github.com/eng-yash007/DSA/tree/master/0152-maximum-product-subarray) |
@@ -350,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview!!!
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/eng-yash007/DSA/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/eng-yash007/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/eng-yash007/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/eng-yash007/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/eng-yash007/DSA/tree/master/0145-binary-tree-postorder-traversal) |
@@ -378,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview!!!
 | ------- |
 | [0020-valid-parentheses](https://github.com/eng-yash007/DSA/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/eng-yash007/DSA/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/eng-yash007/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/eng-yash007/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/eng-yash007/DSA/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/eng-yash007/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
