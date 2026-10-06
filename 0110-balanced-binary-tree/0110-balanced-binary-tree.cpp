@@ -23,24 +23,21 @@ public:
         return 1 + max(left, right);
     }
 
-    bool check(TreeNode* node) {
-
-        if (node == NULL)
-            return true;
+    bool check(TreeNode* node){
+        if(node == NULL) return true;
 
         int lh = height(node->left);
         int rh = height(node->right);
 
-        if (abs(lh - rh) > 1)
-            return false;
+        if(abs(lh-rh)>1) return false;
 
-        bool left = check(node->left);
-        bool right = check(node->right);
+        bool left = check(node -> left);
+        bool right = check(node -> right);
 
-        if (!left || !right)
-            return false;
+        if(!left || !right) return false;
 
         return true;
+        
     }
 
      bool isBalanced(TreeNode* root) {
