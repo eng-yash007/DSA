@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview!!!
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/eng-yash007/DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/eng-yash007/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/eng-yash007/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3028-ant-on-the-boundary](https://github.com/eng-yash007/DSA/tree/master/3028-ant-on-the-boundary) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/eng-yash007/DSA/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/eng-yash007/DSA/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/eng-yash007/DSA/tree/master/3483-unique-3-digit-even-numbers) |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview!!!
 | [0560-subarray-sum-equals-k](https://github.com/eng-yash007/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/eng-yash007/DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/eng-yash007/DSA/tree/master/1248-count-number-of-nice-subarrays) |
+| [3028-ant-on-the-boundary](https://github.com/eng-yash007/DSA/tree/master/3028-ant-on-the-boundary) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/eng-yash007/DSA/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3903-smallest-stable-index-i](https://github.com/eng-yash007/DSA/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/eng-yash007/DSA/tree/master/3904-smallest-stable-index-ii) |
@@ -349,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview!!!
 | [1929-concatenation-of-array](https://github.com/eng-yash007/DSA/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/eng-yash007/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2390-removing-stars-from-a-string](https://github.com/eng-yash007/DSA/tree/master/2390-removing-stars-from-a-string) |
+| [3028-ant-on-the-boundary](https://github.com/eng-yash007/DSA/tree/master/3028-ant-on-the-boundary) |
 | [3498-reverse-degree-of-a-string](https://github.com/eng-yash007/DSA/tree/master/3498-reverse-degree-of-a-string) |
 ## Stack
 |  |
