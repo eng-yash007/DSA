@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview!!!
 | [0076-minimum-window-substring](https://github.com/eng-yash007/DSA/tree/master/0076-minimum-window-substring) |
 | [0151-reverse-words-in-a-string](https://github.com/eng-yash007/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/eng-yash007/DSA/tree/master/0242-valid-anagram) |
+| [0301-remove-invalid-parentheses](https://github.com/eng-yash007/DSA/tree/master/0301-remove-invalid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/eng-yash007/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0796-rotate-string](https://github.com/eng-yash007/DSA/tree/master/0796-rotate-string) |
 | [0856-score-of-parentheses](https://github.com/eng-yash007/DSA/tree/master/0856-score-of-parentheses) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview!!!
 | ------- |
 | [0022-generate-parentheses](https://github.com/eng-yash007/DSA/tree/master/0022-generate-parentheses) |
 | [0077-combinations](https://github.com/eng-yash007/DSA/tree/master/0077-combinations) |
+| [0301-remove-invalid-parentheses](https://github.com/eng-yash007/DSA/tree/master/0301-remove-invalid-parentheses) |
 ## Hash Table
 |  |
 | ------- |
@@ -451,6 +453,7 @@ A collection of LeetCode questions to ace the coding interview!!!
 | [0100-same-tree](https://github.com/eng-yash007/DSA/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/eng-yash007/DSA/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/eng-yash007/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0301-remove-invalid-parentheses](https://github.com/eng-yash007/DSA/tree/master/0301-remove-invalid-parentheses) |
 ## DP on Trees
 |  |
 | ------- |
