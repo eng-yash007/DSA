@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview!!!
 | [1021-remove-outermost-parentheses](https://github.com/eng-yash007/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/eng-yash007/DSA/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/eng-yash007/DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/eng-yash007/DSA/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/eng-yash007/DSA/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2390-removing-stars-from-a-string](https://github.com/eng-yash007/DSA/tree/master/2390-removing-stars-from-a-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/eng-yash007/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -282,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview!!!
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/eng-yash007/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1029-two-city-scheduling](https://github.com/eng-yash007/DSA/tree/master/1029-two-city-scheduling) |
 | [1323-maximum-69-number](https://github.com/eng-yash007/DSA/tree/master/1323-maximum-69-number) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/eng-yash007/DSA/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/eng-yash007/DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/eng-yash007/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/eng-yash007/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -367,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview!!!
 | [1021-remove-outermost-parentheses](https://github.com/eng-yash007/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/eng-yash007/DSA/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/eng-yash007/DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/eng-yash007/DSA/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2390-removing-stars-from-a-string](https://github.com/eng-yash007/DSA/tree/master/2390-removing-stars-from-a-string) |
 | [3542-minimum-operations-to-convert-all-elements-to-zero](https://github.com/eng-yash007/DSA/tree/master/3542-minimum-operations-to-convert-all-elements-to-zero) |
 ## Hungarian Algorithm
@@ -393,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview!!!
 | [1021-remove-outermost-parentheses](https://github.com/eng-yash007/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/eng-yash007/DSA/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/eng-yash007/DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/eng-yash007/DSA/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 ## Monotonic Stack
 |  |
 | ------- |
