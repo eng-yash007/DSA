@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview!!!
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/eng-yash007/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/eng-yash007/DSA/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/eng-yash007/DSA/tree/master/0162-find-peak-element) |
+| [0200-number-of-islands](https://github.com/eng-yash007/DSA/tree/master/0200-number-of-islands) |
 | [0238-product-of-array-except-self](https://github.com/eng-yash007/DSA/tree/master/0238-product-of-array-except-self) |
 | [0410-split-array-largest-sum](https://github.com/eng-yash007/DSA/tree/master/0410-split-array-largest-sum) |
 | [0414-third-maximum-number](https://github.com/eng-yash007/DSA/tree/master/0414-third-maximum-number) |
@@ -384,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview!!!
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/eng-yash007/DSA/tree/master/0128-longest-consecutive-sequence) |
+| [0200-number-of-islands](https://github.com/eng-yash007/DSA/tree/master/0200-number-of-islands) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -407,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview!!!
 | [0048-rotate-image](https://github.com/eng-yash007/DSA/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/eng-yash007/DSA/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/eng-yash007/DSA/tree/master/0073-set-matrix-zeroes) |
+| [0200-number-of-islands](https://github.com/eng-yash007/DSA/tree/master/0200-number-of-islands) |
 ## Manacher
 |  |
 | ------- |
@@ -442,6 +445,7 @@ A collection of LeetCode questions to ace the coding interview!!!
 | [0124-binary-tree-maximum-path-sum](https://github.com/eng-yash007/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/eng-yash007/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/eng-yash007/DSA/tree/master/0145-binary-tree-postorder-traversal) |
+| [0200-number-of-islands](https://github.com/eng-yash007/DSA/tree/master/0200-number-of-islands) |
 | [0543-diameter-of-binary-tree](https://github.com/eng-yash007/DSA/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Tree
 |  |
@@ -463,6 +467,7 @@ A collection of LeetCode questions to ace the coding interview!!!
 | [0102-binary-tree-level-order-traversal](https://github.com/eng-yash007/DSA/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/eng-yash007/DSA/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/eng-yash007/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0200-number-of-islands](https://github.com/eng-yash007/DSA/tree/master/0200-number-of-islands) |
 | [0301-remove-invalid-parentheses](https://github.com/eng-yash007/DSA/tree/master/0301-remove-invalid-parentheses) |
 ## DP on Trees
 |  |
