@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview!!!
 | [0005-longest-palindromic-substring](https://github.com/eng-yash007/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/eng-yash007/DSA/tree/master/0011-container-with-most-water) |
 | [0088-merge-sorted-array](https://github.com/eng-yash007/DSA/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/eng-yash007/DSA/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/eng-yash007/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/eng-yash007/DSA/tree/master/0344-reverse-string) |
 | [0455-assign-cookies](https://github.com/eng-yash007/DSA/tree/master/0455-assign-cookies) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview!!!
 | [0022-generate-parentheses](https://github.com/eng-yash007/DSA/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/eng-yash007/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0076-minimum-window-substring](https://github.com/eng-yash007/DSA/tree/master/0076-minimum-window-substring) |
+| [0125-valid-palindrome](https://github.com/eng-yash007/DSA/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/eng-yash007/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/eng-yash007/DSA/tree/master/0242-valid-anagram) |
 | [0301-remove-invalid-parentheses](https://github.com/eng-yash007/DSA/tree/master/0301-remove-invalid-parentheses) |
