@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview!!!
 | [0344-reverse-string](https://github.com/eng-yash007/DSA/tree/master/0344-reverse-string) |
 | [0455-assign-cookies](https://github.com/eng-yash007/DSA/tree/master/0455-assign-cookies) |
 | [0633-sum-of-square-numbers](https://github.com/eng-yash007/DSA/tree/master/0633-sum-of-square-numbers) |
+| [0647-palindromic-substrings](https://github.com/eng-yash007/DSA/tree/master/0647-palindromic-substrings) |
 | [0986-interval-list-intersections](https://github.com/eng-yash007/DSA/tree/master/0986-interval-list-intersections) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/eng-yash007/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Binary Search
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview!!!
 | [0301-remove-invalid-parentheses](https://github.com/eng-yash007/DSA/tree/master/0301-remove-invalid-parentheses) |
 | [0344-reverse-string](https://github.com/eng-yash007/DSA/tree/master/0344-reverse-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/eng-yash007/DSA/tree/master/0424-longest-repeating-character-replacement) |
+| [0647-palindromic-substrings](https://github.com/eng-yash007/DSA/tree/master/0647-palindromic-substrings) |
 | [0678-valid-parenthesis-string](https://github.com/eng-yash007/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0796-rotate-string](https://github.com/eng-yash007/DSA/tree/master/0796-rotate-string) |
 | [0856-score-of-parentheses](https://github.com/eng-yash007/DSA/tree/master/0856-score-of-parentheses) |
@@ -273,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview!!!
 | [0152-maximum-product-subarray](https://github.com/eng-yash007/DSA/tree/master/0152-maximum-product-subarray) |
 | [0410-split-array-largest-sum](https://github.com/eng-yash007/DSA/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/eng-yash007/DSA/tree/master/0435-non-overlapping-intervals) |
+| [0647-palindromic-substrings](https://github.com/eng-yash007/DSA/tree/master/0647-palindromic-substrings) |
 | [0678-valid-parenthesis-string](https://github.com/eng-yash007/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0877-stone-game](https://github.com/eng-yash007/DSA/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/eng-yash007/DSA/tree/master/1025-divisor-game) |
