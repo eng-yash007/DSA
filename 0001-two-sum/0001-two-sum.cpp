@@ -1,13 +1,20 @@
 class Solution {
 public:
     vector<int> twoSum(vector<int>& nums, int target) {
-        for (int i = 0; i < nums.size(); i++) {
-            for (int j = i + 1; j < nums.size(); j++) {
-                if (nums[i] + nums[j] == target) {
-                    return {i,j};
-                }
-            }
+    unordered_map<int, int> seen;
+
+    for (int i = 0; i < static_cast<int>(nums.size()); i++) {
+        long long complement = (long long)target - nums[i];
+
+        auto it = seen.find(static_cast<int>(complement));
+
+        if (it != seen.end()) {
+            return {it->second, i};
         }
-        return nums;
+
+        seen[nums[i]] = i;
     }
+
+    return {};
+}
 };
