@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview!!!
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/eng-yash007/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/eng-yash007/DSA/tree/master/0088-merge-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/eng-yash007/DSA/tree/master/0128-longest-consecutive-sequence) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/eng-yash007/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/eng-yash007/DSA/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/eng-yash007/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/eng-yash007/DSA/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview!!!
 | [0013-roman-to-integer](https://github.com/eng-yash007/DSA/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/eng-yash007/DSA/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/eng-yash007/DSA/tree/master/0066-plus-one) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/eng-yash007/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0231-power-of-two](https://github.com/eng-yash007/DSA/tree/master/0231-power-of-two) |
 | [0628-maximum-product-of-three-numbers](https://github.com/eng-yash007/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/eng-yash007/DSA/tree/master/0633-sum-of-square-numbers) |
@@ -370,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview!!!
 | [0094-binary-tree-inorder-traversal](https://github.com/eng-yash007/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/eng-yash007/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/eng-yash007/DSA/tree/master/0145-binary-tree-postorder-traversal) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/eng-yash007/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/eng-yash007/DSA/tree/master/0155-min-stack) |
 | [0678-valid-parenthesis-string](https://github.com/eng-yash007/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/eng-yash007/DSA/tree/master/0856-score-of-parentheses) |
