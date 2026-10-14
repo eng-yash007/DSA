@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview!!!
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/eng-yash007/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/eng-yash007/DSA/tree/master/0011-container-with-most-water) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/eng-yash007/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/eng-yash007/DSA/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/eng-yash007/DSA/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/eng-yash007/DSA/tree/master/0151-reverse-words-in-a-string) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview!!!
 | [0014-longest-common-prefix](https://github.com/eng-yash007/DSA/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/eng-yash007/DSA/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/eng-yash007/DSA/tree/master/0022-generate-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/eng-yash007/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/eng-yash007/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/eng-yash007/DSA/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/eng-yash007/DSA/tree/master/0076-minimum-window-substring) |
@@ -195,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview!!!
 ## String Matching
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/eng-yash007/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0796-rotate-string](https://github.com/eng-yash007/DSA/tree/master/0796-rotate-string) |
 ## Trie
 |  |
@@ -532,4 +535,16 @@ A collection of LeetCode questions to ace the coding interview!!!
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/eng-yash007/DSA/tree/master/0155-min-stack) |
+## Z Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/eng-yash007/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/eng-yash007/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/eng-yash007/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
