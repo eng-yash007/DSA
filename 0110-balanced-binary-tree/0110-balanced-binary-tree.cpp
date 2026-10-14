@@ -15,17 +15,17 @@ public:
     int check(TreeNode* node) {
 
         if (node == NULL)
-            return 0;
+            return 0; // agar node null hua to 0 return karenge uski height
 
         int left = check(node->left);
-        if(left == -1) return -1;
+        if(left == -1) return -1; // left subtree unbalanced h 
 
         int right = check(node->right);
-        if(right == -1) return -1;
+        if(right == -1) return -1; // right subtree unbalanced h
 
-        if(abs(left-right)>1) return -1;
+        if(abs(left-right)>1) return -1; // current node unbalanced h
 
-        return 1 + max(left, right);
+        return 1 + max(left, right); // height return kar rhe
     }
 
      bool isBalanced(TreeNode* root) {
