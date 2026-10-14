@@ -172,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview!!!
 | [0242-valid-anagram](https://github.com/eng-yash007/DSA/tree/master/0242-valid-anagram) |
 | [0301-remove-invalid-parentheses](https://github.com/eng-yash007/DSA/tree/master/0301-remove-invalid-parentheses) |
 | [0344-reverse-string](https://github.com/eng-yash007/DSA/tree/master/0344-reverse-string) |
+| [0424-longest-repeating-character-replacement](https://github.com/eng-yash007/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0678-valid-parenthesis-string](https://github.com/eng-yash007/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0796-rotate-string](https://github.com/eng-yash007/DSA/tree/master/0796-rotate-string) |
 | [0856-score-of-parentheses](https://github.com/eng-yash007/DSA/tree/master/0856-score-of-parentheses) |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview!!!
 | [0076-minimum-window-substring](https://github.com/eng-yash007/DSA/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/eng-yash007/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0242-valid-anagram](https://github.com/eng-yash007/DSA/tree/master/0242-valid-anagram) |
+| [0424-longest-repeating-character-replacement](https://github.com/eng-yash007/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/eng-yash007/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/eng-yash007/DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/eng-yash007/DSA/tree/master/0992-subarrays-with-k-different-integers) |
@@ -248,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview!!!
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/eng-yash007/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/eng-yash007/DSA/tree/master/0076-minimum-window-substring) |
+| [0424-longest-repeating-character-replacement](https://github.com/eng-yash007/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0930-binary-subarrays-with-sum](https://github.com/eng-yash007/DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/eng-yash007/DSA/tree/master/0992-subarrays-with-k-different-integers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/eng-yash007/DSA/tree/master/1248-count-number-of-nice-subarrays) |
