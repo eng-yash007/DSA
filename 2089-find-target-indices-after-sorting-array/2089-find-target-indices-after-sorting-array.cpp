@@ -1,18 +1,25 @@
 class Solution {
 public:
     vector<int> targetIndices(vector<int>& nums, int target) {
-       sort(nums.begin(), nums.end());
+        int start = 0;
+        int cnt = 0;
+        for(int i=0;i<nums.size();i++){
+            if(nums[i]<target){
+                start++;
 
-        int start = lower_bound(nums.begin(), nums.end(), target) - nums.begin();
-        int end = upper_bound(nums.begin(), nums.end(), target) - nums.begin();
+            }
+            if(nums[i] == target){
+                cnt++;
 
-        vector<int> ans;
+            }
 
-        for(int i = start; i < end; i++) {
-            ans.push_back(i);
         }
-
+        vector<int> ans;
+        while(cnt>0){
+            ans.push_back(start);
+            cnt--;
+            start++;
+        }
         return ans;
-
     }
 };
