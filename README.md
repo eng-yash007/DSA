@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview!!!
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/eng-yash007/DSA/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/eng-yash007/DSA/tree/master/0162-find-peak-element) |
 | [0200-number-of-islands](https://github.com/eng-yash007/DSA/tree/master/0200-number-of-islands) |
+| [0217-contains-duplicate](https://github.com/eng-yash007/DSA/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/eng-yash007/DSA/tree/master/0238-product-of-array-except-self) |
 | [0410-split-array-largest-sum](https://github.com/eng-yash007/DSA/tree/master/0410-split-array-largest-sum) |
 | [0414-third-maximum-number](https://github.com/eng-yash007/DSA/tree/master/0414-third-maximum-number) |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview!!!
 | [0073-set-matrix-zeroes](https://github.com/eng-yash007/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/eng-yash007/DSA/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/eng-yash007/DSA/tree/master/0128-longest-consecutive-sequence) |
+| [0217-contains-duplicate](https://github.com/eng-yash007/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/eng-yash007/DSA/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/eng-yash007/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/eng-yash007/DSA/tree/master/0560-subarray-sum-equals-k) |
@@ -322,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview!!!
 | [0049-group-anagrams](https://github.com/eng-yash007/DSA/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/eng-yash007/DSA/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/eng-yash007/DSA/tree/master/0088-merge-sorted-array) |
+| [0217-contains-duplicate](https://github.com/eng-yash007/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/eng-yash007/DSA/tree/master/0242-valid-anagram) |
 | [0414-third-maximum-number](https://github.com/eng-yash007/DSA/tree/master/0414-third-maximum-number) |
 | [0435-non-overlapping-intervals](https://github.com/eng-yash007/DSA/tree/master/0435-non-overlapping-intervals) |
