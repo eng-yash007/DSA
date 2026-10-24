@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview!!!
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/eng-yash007/DSA/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/eng-yash007/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2235-add-two-integers](https://github.com/eng-yash007/DSA/tree/master/2235-add-two-integers) |
+| [2409-count-days-spent-together](https://github.com/eng-yash007/DSA/tree/master/2409-count-days-spent-together) |
 | [2769-find-the-maximum-achievable-number](https://github.com/eng-yash007/DSA/tree/master/2769-find-the-maximum-achievable-number) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/eng-yash007/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/eng-yash007/DSA/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview!!!
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/eng-yash007/DSA/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/eng-yash007/DSA/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2390-removing-stars-from-a-string](https://github.com/eng-yash007/DSA/tree/master/2390-removing-stars-from-a-string) |
+| [2409-count-days-spent-together](https://github.com/eng-yash007/DSA/tree/master/2409-count-days-spent-together) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/eng-yash007/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/eng-yash007/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/eng-yash007/DSA/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
